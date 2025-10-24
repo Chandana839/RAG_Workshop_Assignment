@@ -26,8 +26,8 @@ Five Machine Learning PDFs covering topics such as supervised learning, reinforc
 
 ## 💬 Example Question
 **Q:** What is supervised learning?  
-**A:** “Supervised learning is a method of training models using labeled data…”  
-(Source: ML_1.pdf)
+**A:** “ Supervised learning is a type of machine learning that involves training an artificial system using examples provided by a knowledgeable external supervisor". 
+(Source : "Overview of Supervised Learning" on page 9 and section 2.6 )
 
 ## 🧾 Files Included
 - `CHANDANA_R_RAG_WORKSHOP.ipynb` — Main Jupyter Notebook  

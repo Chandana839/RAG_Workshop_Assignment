@@ -29,6 +29,12 @@ Five Machine Learning PDFs covering topics such as supervised learning, reinforc
 **A:** “ Supervised learning is a type of machine learning that involves training an artificial system using examples provided by a knowledgeable external supervisor". 
 (Source : "Overview of Supervised Learning" on page 9 and section 2.6 )
 
+**Q:** Explain the concept of reinforcement learning and its main elements.
+**A:**  
+"Reinforcement learning is a type of machine learning that focuses on how agents ought to take actions in an environment so as to maximize some notion of cumulative reward. It's characterized by three main elements, which are essential for understanding the framework" (Source Document 1:3).  
+
+
+
 ## 🧾 Files Included
 - `CHANDANA_R_RAG_WORKSHOP.ipynb` — Main Jupyter Notebook  
 - `ML_1.pdf` → `ML_5.pdf` — Data sources  
